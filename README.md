@@ -85,10 +85,10 @@
       <div class="container mx-auto px-6 text-center">
         <h3 class="text-3xl font-semibold mb-8">Gallery</h3>
         <div class="grid md:grid-cols-4 gap-4">
-          <img src="https://via.placeholder.com/300" class="rounded shadow" alt="Gallery 1" />
-          <img src="https://via.placeholder.com/300" class="rounded shadow" alt="Gallery 2" />
-          <img src="https://via.placeholder.com/300" class="rounded shadow" alt="Gallery 3" />
-          <img src="https://via.placeholder.com/300" class="rounded shadow" alt="Gallery 4" />
+          <img src="https://via.placeholder.com/300" class="rounded shadow" alt="Campus C form 1" />
+          <img src="https://via.placeholder.com/300" class="rounded shadow" alt="Campus C Form 2" />
+          <img src="https://via.placeholder.com/300" class="rounded shadow" alt="Cmapus C form 3" />
+          <img src="https://via.placeholder.com/300" class="rounded shadow" alt="Campus C form 4" />
         </div>
       </div>
     </section>
@@ -118,8 +118,8 @@
     <script>
       const cart = [];
 
-      function addToCart(product, price) {
-        cart.push({ product, price });
+      function addToCart(product, 500) {
+        cart.push({ product, 500 });
         renderCart();
       }
 
@@ -132,8 +132,8 @@
             <span>₹${item.price}</span>
           </div>
         `).join("");
-        const total = cart.reduce((sum, item) => sum + item.price, 0);
-        totalPriceDiv.textContent = `Total: ₹${total}`;
+        const total = cart.reduce((sum, item) => sum + item.price, 500);
+        totalPriceDiv.textContent = `Total: ₹${530}`;
       }
     </script>
   </body>
