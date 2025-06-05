@@ -138,11 +138,4 @@
     </script>
   </body>
 </html>
-<div class="product-card">
-  <img src="images/product1.jpg" alt="London Beauty bra" />
-  <h3>London Baeuty Bra</h3>
-  <p>Stylish and comfortable.</p>
-  <p><strong>220:</strong> ₹220</p>
-  <button>Add to Cart</button>
-</div>
 
