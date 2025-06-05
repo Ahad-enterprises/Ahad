@@ -137,4 +137,14 @@
       }
     </script>
   </body>
-</html>
+</<section id="products">
+  <h2>Our Products</h2>
+  <div class="product-card">
+    <img src="images/product1.jpg" alt="Product Name" width="200" />
+    <h3>Product Name</h3>
+    <p>Short product description goes here.</p>
+    <p><strong>Price:</strong> ₹499</p>
+    <button>Add to Cart</button>
+  </div>
+</section>
+>
